@@ -1,0 +1,332 @@
+[
+  {
+    "nome": "Tom & Jerry: Uma Aventura no Museu",
+    "descricao": " Filme infantil",
+    "ano": 2026,
+    "link": "https://cinepop.com.br/tom-jerry-uma-aventura-no-museu-697179"
+  },
+  {
+    "nome": "Viagem Gelada: O Resgate do Urso Polar",
+    "descricao": " Filme infantil acima de 12 anos",
+    "ano": 2026,
+    "link": "https://cinepop.com.br/viagem-gelada-o-resgate-do-urso-polar"
+  },
+  {
+    "nome": "Pânico 7",
+    "descricao": "Filme de terror da famosa franquia slasher.",
+    "ano": 2026,
+    "link": "https://cinepop.com.br/panico-7-491177"
+  },
+  {
+    "nome": "Divertida Mente 2",
+    "descricao": "Animação da Pixar sobre as novas emoções de Riley.",
+    "ano": 2024,
+    "link": "https://cinepop.com.br/divertida-mente-2-critica-488655"
+  },
+  {
+    "nome": "Deadpool & Wolverine",
+    "descricao": "Filme de super-herói com a união dos famosos personagens da Marvel.",
+    "ano": 2024,
+    "link": "https://cinepop.com.br/deadpool-wolverine-ganha-trailer-final-eletrizante-e-cheio-de-participacoes-especiais-697813"
+  },
+  {
+    "nome": "Cronos: O Despertar",
+    "descricao": "Uma série de ficção científica onde um grupo de cientistas descobre como manipular o tempo, mas acidentalmente liberta uma ameaça temporal.",
+    "ano": "2024",
+    "link": "https://cronos-despertar.com",
+    "tags": [
+      "Ficção Científica",
+      "Série",
+      "Aventura",
+      "Viagem no Tempo"
+    ]
+  },
+  {
+    "nome": "Fúria de Chumbo",
+    "descricao": "Um ex-agente de operações especiais deve proteger a única testemunha de um crime de alto escalão em uma corrida contra o tempo cheia de explosões.",
+    "ano": "2023",
+    "link": "https://furia-chumbo.net",
+    "tags": [
+      "Ação",
+      "Thriller",
+      "Filme",
+      "Adrenalina"
+    ]
+  },
+  {
+    "nome": "As Crônicas de Eldoria",
+    "descricao": "Em um mundo mágico à beira da guerra, uma jovem órfã descobre ser a chave para despertar um poder ancestral capaz de salvar ou destruir o reino.",
+    "ano": "2025",
+    "link": "https://eldoria-oficial.com",
+    "tags": [
+      "Fantasia",
+      "Série Épica",
+      "Magia",
+      "Aventura"
+    ]
+  },
+  {
+    "nome": "O Ritual da Lua Negra",
+    "descricao": "Um grupo de amigos se aventura em uma cabana isolada e descobre que eles são os alvos de um ritual satânico há muito esquecido.",
+    "ano": "2024",
+    "link": "https://ritual-lua-negra.net",
+    "tags": [
+      "Terror",
+      "Slasher",
+      "Sobrenatural",
+      "Filme"
+    ]
+  },
+  {
+    "nome": "Planeta Azul Profundo",
+    "descricao": "Uma imersão nas profundezas dos oceanos, explorando a vida marinha rara e os desafios ambientais que ameaçam este ecossistema vital.",
+    "ano": "2023",
+    "link": "https://planeta-azul-documentario.org",
+    "tags": [
+      "Documentário",
+      "Natureza",
+      "Série",
+      "Meio Ambiente"
+    ]
+  },
+  {
+    "nome": "A Lenda do Dragão de Jade",
+    "descricao": "Um filme de animação sobre um jovem artista marcial que deve provar seu valor ao embarcar em uma jornada para recuperar o roubado Dragão de Jade.",
+    "ano": "2025",
+    "link": "https://lenda-dragao-jade.com",
+    "tags": [
+      "Animação",
+      "Aventura",
+      "Família",
+      "Artes Marciais"
+    ]
+  },
+  {
+    "nome": "Ecos da Metrópole",
+    "descricao": "Uma série dramática que acompanha a vida interligada de vários moradores de uma grande cidade, lidando com ambição, traição e redenção.",
+    "ano": "2024",
+    "link": "https://ecos-metropole-serie.tv",
+    "tags": [
+      "Drama",
+      "Série",
+      "Vida Urbana",
+      "Relacionamentos"
+    ]
+  },
+  {
+    "nome": "O Casamento Fora de Rumo",
+    "descricao": "Uma comédia hilária sobre um casal que tenta planejar o casamento perfeito, mas todos os seus planos dão terrivelmente errado.",
+    "ano": "2023",
+    "link": "https://casamento-foraderumo.com",
+    "tags": [
+      "Comédia",
+      "Romance",
+      "Filme",
+      "Humor"
+    ]
+  },
+  {
+    "nome": "Os Pilares de Roma",
+    "descricao": "Uma minissérie histórica detalhando a ascensão e queda de uma família influente durante o auge do Império Romano.",
+    "ano": "2022",
+    "link": "https://pilares-roma.history",
+    "tags": [
+      "História",
+      "Drama",
+      "Série",
+      "Império Romano"
+    ]
+  },
+  {
+    "nome": "Código Vermelho",
+    "descricao": "Um thriller de espionagem onde um analista da CIA descobre um plano de ataque global e deve se tornar um agente de campo para impedir a catástrofe.",
+    "ano": "2024",
+    "link": "https://codigovermelho-filme.net",
+    "tags": [
+      "Thriller",
+      "Espionagem",
+      "Ação",
+      "Mistério"
+    ]
+  },
+  {
+    "nome": "Vingadores da Meia-Noite",
+    "descricao": "Um grupo de vigilantes com poderes sombrios se une para combater uma ameaça interdimensional que se esconde nas sombras da cidade.",
+    "ano": "2025",
+    "link": "https://vingadores-meia-noite.marvel",
+    "tags": [
+      "Super-Herói",
+      "Ação",
+      "Filme",
+      "Fantasia Urbana"
+    ]
+  },
+  {
+    "nome": "A Garota no Lago",
+    "descricao": "Uma detetive retorna à sua cidade natal para investigar o desaparecimento de uma adolescente, desvendando segredos antigos da pequena comunidade.",
+    "ano": "2023",
+    "link": "https://garota-no-lago.tv",
+    "tags": [
+      "Mistério",
+      "Série",
+      "Suspense",
+      "Policial"
+    ]
+  },
+  {
+    "nome": "O Último Artesão",
+    "descricao": "Um filme independente e melancólico sobre um carpinteiro idoso que luta para manter sua arte viva em um mundo cada vez mais digital.",
+    "ano": "2022",
+    "link": "https://ultimo-artesao-filme.org",
+    "tags": [
+      "Drama",
+      "Independente",
+      "Arte",
+      "Reflexivo"
+    ]
+  },
+  {
+    "nome": "Amor em Alto Mar",
+    "descricao": "Uma executiva estressada tira férias em um cruzeiro e se apaixona por um charmoso chef de cozinha que não acredita em compromisso.",
+    "ano": "2024",
+    "link": "https://amor-alto-mar-romcom.com",
+    "tags": [
+      "Comédia Romântica",
+      "Romance",
+      "Filme",
+      "Leve"
+    ]
+  },
+  {
+    "nome": "Neo Tóquio 2077",
+    "descricao": "Uma série cyberpunk que explora a vida de hackers e mercenários em uma megacidade futurista dominada por corporações e inteligência artificial.",
+    "ano": "2025",
+    "link": "https://neo-tokio-serie.net",
+    "tags": [
+      "Cyberpunk",
+      "Ficção Científica",
+      "Série",
+      "Distopia"
+    ]
+  },
+  {
+    "nome": "Impacto Global",
+    "descricao": "Quando um asteroide de proporções catastróficas é detectado em rota de colisão com a Terra, líderes mundiais unem forças para tentar desviá-lo.",
+    "ano": "2023",
+    "link": "https://impacto-global-filme.net",
+    "tags": [
+      "Desastre",
+      "Ação",
+      "Ficção Científica",
+      "Thriller"
+    ]
+  },
+  {
+    "nome": "Geração Zero",
+    "descricao": "Uma série sobre a vida de adolescentes em um colégio de elite, lidando com pressão social, segredos obscuros e a busca por identidade.",
+    "ano": "2024",
+    "link": "https://geracao-zero-teen.tv",
+    "tags": [
+      "Drama Adolescente",
+      "Série",
+      "Juventude",
+      "Conflito"
+    ]
+  },
+  {
+    "nome": "A Voz de Ella Fitzgerald",
+    "descricao": "Um filme biográfico que narra a jornada da lendária cantora de jazz Ella Fitzgerald, desde a infância humilde até o estrelato mundial.",
+    "ano": "2025",
+    "link": "https://voz-ella-fitzgerald.biopic",
+    "tags": [
+      "Biografia",
+      "Música",
+      "Drama",
+      "Jazz"
+    ]
+  },
+  {
+    "nome": "Linha de Fogo 45",
+    "descricao": "Ambientado na Segunda Guerra Mundial, este filme segue um pequeno pelotão de soldados que recebe uma missão suicida atrás das linhas inimigas.",
+    "ano": "2022",
+    "link": "https://linha-fogo-45.net",
+    "tags": [
+      "Guerra",
+      "História",
+      "Drama",
+      "Ação Militar"
+    ]
+  },
+  {
+    "nome": "O Golpe do Século",
+    "descricao": "Um mestre ladrão aposentado é forçado a montar uma equipe para realizar um último assalto impossível: roubar a joia mais bem guardada do mundo.",
+    "ano": "2024",
+    "link": "https://golpe-seculo-filme.com",
+    "tags": [
+      "Assalto",
+      "Thriller",
+      "Ação",
+      "Crime"
+    ]
+  },
+  {
+    "nome": "A Conspiração Silenciosa",
+    "descricao": "Uma série política onde uma jornalista investigativa desenterra uma vasta rede de corrupção que chega aos mais altos escalões do governo.",
+    "ano": "2023",
+    "link": "https://conspiracao-silenciosa.tv",
+    "tags": [
+      "Thriller Político",
+      "Série",
+      "Suspense",
+      "Investigação"
+    ]
+  },
+  {
+    "nome": "Sangue no Deserto",
+    "descricao": "Um faroeste brutal sobre um ex-xerife que busca vingança contra os bandidos que assassinaram sua família em uma cidade sem lei.",
+    "ano": "2025",
+    "link": "https://sangue-deserto-western.net",
+    "tags": [
+      "Faroeste",
+      "Ação",
+      "Vingança",
+      "Filme Clássico"
+    ]
+  },
+  {
+    "nome": "Os Guardiões da Floresta Mágica",
+    "descricao": "Uma animação familiar onde três crianças devem proteger os seres mágicos de sua floresta contra um construtor ganancioso.",
+    "ano": "2024",
+    "link": "https://guardioes-floresta-magica.com",
+    "tags": [
+      "Infantil",
+      "Animação",
+      "Aventura",
+      "Fantasia"
+    ]
+  },
+  {
+    "nome": "O Hotel dos Perdidos",
+    "descricao": "Uma série de terror psicológico sobre hóspedes que se encontram presos em um hotel isolado, onde seus medos mais profundos se manifestam.",
+    "ano": "2023",
+    "link": "https://hotel-perdidos-serie.tv",
+    "tags": [
+      "Terror Psicológico",
+      "Suspense",
+      "Série",
+      "Sobrevivência"
+    ]
+  },
+  {
+    "nome": "Odisséia Estelar: O Retorno",
+    "descricao": "A tripulação de uma nave de exploração retorna à Terra após séculos e descobre que a civilização mudou drasticamente.",
+    "ano": "2025",
+    "link": "https://odisseia-estelar-filme.net",
+    "tags": [
+      "Ficção Científica",
+      "Space Opera",
+      "Aventura",
+      "Épico"
+    ]
+  }
+]
